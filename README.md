@@ -1,6 +1,6 @@
 > [!WARNING]
 > **This repository is archived and no longer maintained.**  
-> Development has moved to **[OpenDraft](https://github.com/JamesHodgkins/OpenDraft)**, which is rebuilt on PySide6.  
+> Development has moved to **[OpenDraft](https://github.com/JamesHodgkins/OpenDraft)**, which is rebuilt in Rust.  
 > This repo (the original Avalonia/.NET version) is kept for reference only.
 
 # OpenDraft (Legacy)
