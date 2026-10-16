@@ -1,6 +1,9 @@
-## THIS PROJECT HAS MOVED TO OPENDRAFTAPP TO USE PYSIDE6 ##
+> [!WARNING]
+> **This repository is archived and no longer maintained.**  
+> Development has moved to **[OpenDraft](https://github.com/JamesHodgkins/OpenDraft)**, which is rebuilt on PySide6.  
+> This repo (the original Avalonia/.NET version) is kept for reference only.
 
-# OpenDraft
+# OpenDraft (Legacy)
 
 ![ODLogo](./Docs/Branding/od_logo.png#gh-light-mode-only)  
 ![ODLogo](./Docs/Branding/od_logo_reverse.png#gh-dark-mode-only)
@@ -53,7 +56,7 @@ We welcome contributions! Please review the [contribution guidelines](./CONTRIBU
 
 ## Feedback, Support and Contact
 
-We value your feedback and suggestions. Please use the [issue tracker](https://github.com/JamesHodgkins/OpenDraft/issues) for bug reports or feature requests.  
+We value your feedback and suggestions. Please use the [issue tracker](https://github.com/JamesHodgkins/OpenDraft/issues) of the new OpenDraft repository for bug reports or feature requests.  
 
 Email: jhodgkins@proton.me  
 
